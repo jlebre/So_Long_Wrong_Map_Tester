@@ -45,4 +45,5 @@ echo "\nTest 14 - Map without exits!\n"
 ./so_long maps/maps_that_dont_work/map_without_exits.ber
 sleep 0.5
 echo "\nTest 15 - Map without valid path!\n"
+./so_long maps/maps_that_dont_work/map_without_valid_path.ber
 sleep 0.5
