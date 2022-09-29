@@ -2,7 +2,9 @@
 
 ![logo42](https://user-images.githubusercontent.com/94384240/190526262-7b18d67f-6a6a-4571-a28a-0ea33eb34ce8.jpg)
 
-Tester for wrong maps in So_long.
+Tester for wrong maps in 42So_Long project.
+
+To see my project [click here](https://github.com/jlebre/so_long) !
 
 #
 
